@@ -25,6 +25,6 @@ const checkDigits =(upc12digit) =>{//siempre pasar un string ojo
 
     return chequeoUpcParametro
 }
-// console.log(checkDigit('302340096584'))
+// console.log(checkDigits('071859998527'))
 
 export default checkDigits
